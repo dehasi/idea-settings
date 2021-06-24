@@ -1,0 +1,14 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Kotlin">
+        <added pattern="org.w3c.dom.Document.write(text)" />
+        <added pattern="org.w3c.dom.Document.getElementById(elementId)" />
+      </blacklist>
+    </blacklists>
+    <disabledLanguages>
+      <language id="kotlin" />
+      <language id="Groovy" />
+    </disabledLanguages>
+  </component>
+</application>

@@ -1,5 +1,14 @@
 <application>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Dockerfile.docker.inlay.hints" />
+        <option value="Groovy.groovy.implicit.null.argument.hint" />
+        <option value="Groovy.groovy.parameters.hints" />
+        <option value="kotlin.KotlinLambdasHintsProvider" />
+        <option value="kotlin.KotlinReferencesTypeHintsProvider" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="JAVA" />
