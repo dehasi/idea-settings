@@ -4,8 +4,8 @@
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="xlsx" type="MyNative" />
-      <mapping ext="xlsx" type="Native" />
+      <mapping ext="xlsx" type="MyNative" />
+      <removed_mapping ext="xlsx" type="Native" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
       <removed_mapping ext="tab" approved="true" type="XML" />
