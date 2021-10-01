@@ -19,4 +19,14 @@
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="asrt" value="assertThat()" description="assertThat" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="// [_] Edge cases are covered&#10;// [_] Complexity is calculated (time, memory)" description="leetcode checklist" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
