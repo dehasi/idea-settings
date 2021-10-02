@@ -24,7 +24,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="lc" value="// [_] Edge cases are covered&#10;// [_] Complexity is calculated (time, memory)" description="leetcode checklist" toReformat="false" toShortenFQNames="true">
+  <template name="lc" value="// [_] Input boundaries are clarified&#10;// [_] Edge cases are covered&#10;// [_] Complexity is calculated (time, memory)" description="leetcode checklist" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
