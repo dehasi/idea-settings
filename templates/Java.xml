@@ -29,4 +29,12 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="td" value="// [_] " description="todo item" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
 </templateSet>
