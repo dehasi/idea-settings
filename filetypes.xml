@@ -5,6 +5,7 @@
       <mapping pattern="рар" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="task" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
