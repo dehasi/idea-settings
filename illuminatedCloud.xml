@@ -1,6 +1,6 @@
 <application>
   <component name="IlluminatedCloudSettings">
-    <option name="lastChangeNotesVersion" value="2.1.8.8" />
-    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="fileTypeAssistancePolicy" value="NEVER" />
+    <option name="lastChangeNotesVersion" value="2.2.2.6" />
   </component>
 </application>

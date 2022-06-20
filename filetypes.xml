@@ -7,8 +7,10 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="task" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping ext="tab" approved="true" type="XML" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern="storage.js" approved="true" type="AUTO_DETECTED" />
