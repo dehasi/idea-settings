@@ -10,6 +10,7 @@
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />
       <removed_mapping ext="profile" approved="true" type="XML" />
+      <removed_mapping ext="ron" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="tab" approved="true" type="XML" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
