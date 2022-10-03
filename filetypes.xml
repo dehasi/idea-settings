@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="gradlew" type="AUTO_DETECTED" />
       <mapping pattern="рар" type="AUTO_DETECTED" />
+      <mapping pattern="jenkinsfile_not_valid" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="task" type="PLAIN_TEXT" />
