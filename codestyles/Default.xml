@@ -1,1 +1,6 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <codeStyleSettings language="JAVA">
+    <option name="CASE_STATEMENT_ON_NEW_LINE" value="false" />
+    <option name="KEEP_MULTIPLE_EXPRESSIONS_IN_ONE_LINE" value="true" />
+  </codeStyleSettings>
+</code_scheme>
