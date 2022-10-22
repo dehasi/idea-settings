@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="5000" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="3000" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="CASE_STATEMENT_ON_NEW_LINE" value="false" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
