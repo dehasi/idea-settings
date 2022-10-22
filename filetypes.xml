@@ -6,8 +6,14 @@
       <mapping pattern="jenkinsfile_not_valid" type="AUTO_DETECTED" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ddl" type="OdpsQL" />
+      <mapping ext="odpsql" type="OdpsQL" />
+      <mapping ext="sql" type="OdpsQL" />
+      <mapping ext="q" type="OdpsQL" />
       <mapping ext="task" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
+      <mapping ext="gv" type="dot file" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="md" approved="true" type="XML" />
       <removed_mapping ext="permissionset" approved="true" type="XML" />

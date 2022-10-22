@@ -1,4 +1,21 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="problems" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="inheritors" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
@@ -8,6 +25,9 @@
         <option value="Dockerfile.docker.inlay.hints" />
         <option value="Groovy.groovy.implicit.null.argument.hint" />
         <option value="Groovy.groovy.parameters.hints" />
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.java.implicit.types" />
+        <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
         <option value="kotlin.KotlinLambdasHintsProvider" />
         <option value="kotlin.KotlinReferencesTypeHintsProvider" />
       </set>
@@ -17,6 +37,19 @@
         <option value="JAVA" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value="Dockerfile.docker.inlay.hints" />
+    <settingsMapElement>
+      <Groovy.groovy.parameters.hints>
+        <Settings>
+          <option name="showInferredParameterTypes" value="false" />
+          <option name="showTypeParameterList" value="false" />
+        </Settings>
+      </Groovy.groovy.parameters.hints>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
   </component>
 </application>

@@ -4,6 +4,7 @@
       <name>JDK_X</name>
       <name>JDK_17</name>
       <name>JDK_17_PREVIEW</name>
+      <name>JDK_19_PREVIEW</name>
     </explicitly-accepted>
   </component>
 </application>
